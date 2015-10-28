@@ -1,8 +1,16 @@
 {
   "name": "passport-digital-signature",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Authenticate Using Digital Signatures",
-  "keywords": ["passport", "digital","signature", "login", "auth", "authentication", "authorization"],
+  "keywords": [
+    "passport",
+    "digital",
+    "signature",
+    "login",
+    "auth",
+    "authentication",
+    "authorization"
+  ],
   "author": "John Henry <john@iamjohnhenry.com>",
   "homepage": "https://github.com/johnhenry/passport-digital-signature",
   "repository": {
@@ -11,7 +19,7 @@
   },
   "main": "index",
   "engines": {
-      "node"    : "0.10.x",
-      "express" : "0.4.x"
-      }
+    "node": "0.10.x",
+    "express": "0.4.x"
+  }
 }
